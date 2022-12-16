@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-demo",
+  "name": "task1",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,10 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "eslint": "8.29.0",
-    "eslint-config-next": "13.0.6",
-    "next": "13.0.6",
+    "bootstrap": "^5.2.3",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.5",
+    "next": "13.0.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-bootstrap": "^2.6.0",
+    "react-csv": "^2.2.2",
+    "react-dom": "18.2.0",
+    "react-modal": "^3.16.1",
+    "xlsx": "^0.18.5"
   }
 }
